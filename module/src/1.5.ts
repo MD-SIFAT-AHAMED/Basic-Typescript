@@ -12,3 +12,13 @@ const user: {
     lastName: 'sifat ahamed',
     isMarried: false
 }
+
+const UserData: {
+    name: 'data-soft',
+    isMarried: boolean,
+    classNmae: string
+} = {
+    name: 'data-soft',
+    isMarried: false,
+    classNmae: "sky"
+}

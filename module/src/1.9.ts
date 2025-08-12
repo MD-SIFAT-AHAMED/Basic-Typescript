@@ -32,7 +32,26 @@
     //type alias for function
     type Add = (x: number, y: number) => number;
 
-    const add : Add = (num1, num2) => num1 + num2;
+    const add: Add = (num1, num2) => num1 + num2;
+
+
+
+    type DataUser = {
+        name: string,
+        age: number,
+        gender: string,
+        address?: string
+    }
+
+    const sifat: DataUser = {
+        name: "sifat ahamed",
+        age: 10,
+        gender: 'Male',
+    }
+
+    type sum = (x: number, y: number) => number;
+
+    const addSum: sum = (num1, num2) => num1 + num2;
 
 
 }

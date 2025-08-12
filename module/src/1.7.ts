@@ -35,5 +35,5 @@
     }
 
     greetFriends('abul', 'kabul', 'babul');
-}``
+}
 

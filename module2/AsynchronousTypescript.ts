@@ -1,0 +1,8 @@
+{
+
+    // promise
+
+    console.log("hello")
+
+
+}

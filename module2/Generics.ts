@@ -4,6 +4,10 @@
 
     //Generic type
 
+    type helloArray<T> = Array<T>;
+
+    const numValues: helloArray<string> = ["sifat", 'shakib', 'mohin', 'sakin'];
+
     type GenericArray<T> = Array<T>;
 
     // const rollNumer: number[] = [10, 20, 30];

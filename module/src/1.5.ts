@@ -22,3 +22,14 @@ const UserData: {
     isMarried: false,
     classNmae: "sky"
 }
+
+
+const Student: {
+    name: string,
+    isMarried: boolean,
+    gender: "male"
+} = {
+    name: 'sifat',
+    isMarried: false,
+    gender: "male"
+}

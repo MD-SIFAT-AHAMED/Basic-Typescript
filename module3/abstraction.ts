@@ -1,7 +1,7 @@
 {
-    // Abstraction : 1; interface 2;abstract
+    // Abstraction : 1: interface 2:abstract
 
-    // abstraction moloto akta idea dey je ki gotbe kito implementation korbo tar child classe
+    // abstraction moloto akta idea dey je ki gotbe ki implementation korbo tar child classe
 
     // Idea paoa
     interface Vehicle1 {

@@ -34,6 +34,8 @@
 
     const add: Add = (num1, num2) => num1 + num2;
 
+    type Sum = (x: number, y: number) => number;
+    const sum: Sum = (value1, value2) => value1 + value2;
 
 
     type DataUser = {

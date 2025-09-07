@@ -1,4 +1,5 @@
-{//learn function
+{
+    //learn function
     //normal function
     //Arrow function
 
@@ -45,6 +46,9 @@
 
 
     const newHello: string[] = hello.map((ele: string): string => ele)
+
+    const result: number[] = [10, 20, 30, 10];
+    result.map((value: number): number => value * 2)
 
 
     const nums = [10, 20, 30];
